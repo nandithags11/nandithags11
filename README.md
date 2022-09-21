@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey
 
-<!--
-**nandithags11/nandithags11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Nanditha, Nice Meeting you ! 😄  ✨ ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I build stuffs 🛠
+
+-  I’m currently learning Data Science
+-  Data Data Data ,I dont like Data but Data likes me
+-  I am here to learn how to build fast and reliable data apps
+-  How to reach me: nandithags11@gmail.com
+-  Pronouns: She/Her/Hers
+-  Fun fact: I'm winning 
+-  <sub> Knowledge is power, But understanding is art </sub>
