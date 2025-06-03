@@ -6,7 +6,6 @@ I am Nanditha, Nice Meeting you ! 😄  ✨ ✨
 This is where I build stuffs 🛠
 
 -  I’m currently learning Data Science
--  Data Data Data ,I dont like Data but Data likes me
 -  I am here to learn how to build fast and reliable data apps
 -  How to reach me: nandithags11@gmail.com
 -  Pronouns: She/Her/Hers
